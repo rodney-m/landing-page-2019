@@ -27,3 +27,9 @@
     color: #12f212;
     text-align: center;
 }
+
+img {
+    /* min-width: 100%; REMOVE THIS */
+    max-width: 100%;
+    height: auto;
+}
