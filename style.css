@@ -1,0 +1,28 @@
+#pageHeader {
+    background-color: #330000;
+    color: #f1f1f1;
+    text-align: center;
+}
+
+#languageWebsite {
+    background-color: black;
+    color: #f1f1f1;
+    text-align: center;
+}
+
+#languageApps {
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+#languageTools {
+    background-color: #330000;
+    color: #f1f1f1;
+    text-align: center;
+}
+
+#pageFooter {
+    background-color: black;
+    color: #f1f1f1;
+    text-align: center;
+}
