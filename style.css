@@ -4,12 +4,6 @@
     text-align: center;
 }
 
-#fullScreenPhoto {
-   background-color: #330000;
-   color: white;
-   text-align: center;
-}
-
 #languageWebsite {
     background: linear-gradient(to bottom, #330000 19%, #f12029 95%);
     color: #f1f1f1;
@@ -45,11 +39,11 @@ h1 {
 }
 
 p{
-   font-family: Arial, Helvetica, sans-serif; 
+  /* font-family: Arial, Helvetica, sans-serif;  */
+  font-family: "Times New Roman", Times, sans-serif;
     font-size: 24px;
 }
 
 .logo{
     width: 60px;
 }
-
