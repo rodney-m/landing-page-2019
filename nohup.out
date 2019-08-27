@@ -1,0 +1,16 @@
+Starting up http-server, serving ./
+Available on:
+  http://127.0.0.1:8080
+  http://192.168.50.127:8080
+Hit CTRL-C to stop the server
+[Mon Aug 26 2019 08:35:08 GMT-0700 (Pacific Daylight Time)] "GET /" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+[Mon Aug 26 2019 08:35:08 GMT-0700 (Pacific Daylight Time)] "GET /style.css" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+[Mon Aug 26 2019 08:35:08 GMT-0700 (Pacific Daylight Time)] "GET /images/tng.png" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+[Mon Aug 26 2019 08:35:08 GMT-0700 (Pacific Daylight Time)] "GET /images/background.jpg" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+[Mon Aug 26 2019 08:35:08 GMT-0700 (Pacific Daylight Time)] "GET /images/raw/20180811_181314-farewell1.jpg" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+[Mon Aug 26 2019 08:35:08 GMT-0700 (Pacific Daylight Time)] "GET /images/alphabet_icon.png" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+[Mon Aug 26 2019 08:35:08 GMT-0700 (Pacific Daylight Time)] "GET /images/memory_match_icon.png" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+[Mon Aug 26 2019 08:35:08 GMT-0700 (Pacific Daylight Time)] "GET /images/qungh_7anaghunt-in_icon.png" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+[Mon Aug 26 2019 08:35:08 GMT-0700 (Pacific Daylight Time)] "GET /images/dvb_icon.png" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+[Mon Aug 26 2019 08:35:08 GMT-0700 (Pacific Daylight Time)] "GET /images/raw/20190821_121241-siwash-2.jpg" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
+[Mon Aug 26 2019 08:35:08 GMT-0700 (Pacific Daylight Time)] "GET /images/raw/20190821_170559-siwash-1.jpg" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0"
