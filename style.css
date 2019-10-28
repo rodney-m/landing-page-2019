@@ -1,3 +1,4 @@
+*{ box-sizing: border-box;}
 #pageHeader {
     background-color: #330000;
     color: #f1f1f1;
@@ -5,9 +6,10 @@
 }
 
 #languageWebsite {
-    background: linear-gradient(to bottom, #330000 19%, #f12029 95%);
+    background: linear-gradient(to right top, #330000 19%, #f12029 95%);
     color: #f1f1f1;
     text-align: center;
+    clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
 }
 
 #languageApps {
